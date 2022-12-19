@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
-        curl https://www.tr.qld.gov.au/otherApps/feescharges/all/ajax/data/register_fees_charges.json | jq . > data.json
+        curl --insecure https://www.tr.qld.gov.au/otherApps/feescharges/all/ajax/data/register_fees_charges.json | jq . > data.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
