@@ -12971,12 +12971,12 @@
       "a. All Rural Service Centres",
       "1",
       "i. In accordance with the Stock Route Management Act 2002 and the Stock Route Management Regulation 2003 the following charges will apply",
-      "LGA s97(2)(a)",
+      "LGA s97(2)(a) SRMA s116(6) SRMA s122(5)",
       "CR",
       "Cost Recovery",
-      "GST",
-      "2.16",
-      "Minimum fee prescribed for Section 17."
+      "NIL",
+      "3",
+      "Per head per week or part thereof."
     ],
     [
       "400",
@@ -12987,17 +12987,17 @@
       "STOCK ROUTE AGISTMENT PERMIT",
       "1028",
       "2",
-      "2. Small Stock Per Head, Per Week",
+      "2. Small Stock Per Head 5, Per Week",
       "00a",
       "a. All Rural Service Centres",
       "1",
       "i. In accordance with the Stock Route Management Act 2002 and the Stock Route Management Regulation 2003 the following charges will apply",
-      "LGA s97(2)(a)",
+      "LGA s97(2)(a) SRMA s116(6) SRMA s122(5)",
       "CR",
       "Cost Recovery",
-      "GST",
-      "0.3",
-      "In accordance with CPI."
+      "NIL",
+      "2.15",
+      "Per 5 head per week or part thereof."
     ],
     [
       "400",
@@ -13012,13 +13012,13 @@
       "00a",
       "a. All Rural Service Centres",
       "1",
-      "i. Application fee set under s97(2)(a) of the Local Government Act 2009, being for recovery of costs associated with processing a Stock Route Agistment Permit in accordance with the Stock Route Management Act 2002",
-      "LGA s97(2)(a)",
+      "i. In accordance with the stock Route Management Act 2002 and the Stock Route Management Regulation 2003 the following charges will apply",
+      "LGA s97(2)(a) SRMA s116(4)(b) SRMA s122(2)(b)(ii) Council Policy 2.43 Roadside Agistment Policy",
       "CR",
       "Cost Recovery",
       "NIL",
-      "250",
-      "Based on processing application and site inspection to ensure compliance with conditions."
+      "159",
+      "Per application and/or renewal. (Council Decision - 18 March 2014) Environment and Community Committee - 12 March 2014 - Item 2 Where a general drought declaration or individual property drought declaration is in flood or fire, the application fee for a roadside agistment permit is waived."
     ],
     [
       "400",
@@ -13134,17 +13134,17 @@
       "STOCK ROUTE TRAVEL PERMIT",
       "1029",
       "1",
-      "1. Large Stock Per Km, Per 20 Head or Part Thereof",
+      "1. Large Stock Per Day, Per 20 Head or Part Thereof",
       "00a",
       "a. All Rural Service Centres",
       "1",
-      "i. In accordance with the Land Protection (Pest and Stock Route Management) Act 2002 and the Land Protection (Pest and Stock Route Management) Regulation 2003 the following charges will apply",
-      "LGA s97(2)(a)",
+      "i. In accordance with the Stock Route Management Act 2002 and the Stock Route Management Regulation 2003 the following charges will apply",
+      "LGA s97(2)(a) SRMA s134(4)",
       "CR",
       "Cost Recovery",
       "NIL",
-      "0.02",
-      "Per Km, per 20 head or part thereof."
+      "1.06",
+      "Per Day, per 20 head or part thereof."
     ],
     [
       "400",
@@ -13155,17 +13155,38 @@
       "STOCK ROUTE TRAVEL PERMIT",
       "1030",
       "2",
-      "2. Small Stock Per Km, Per 100 Head or Part Thereof",
+      "2. Small Stock Per Day, Per 140 Head or Part Thereof",
       "00a",
       "a. All Rural Service Centres",
       "1",
-      "i. In accordance with the Land Protection (Pest and Stock Route Management) Act 2002 and the Land Protection (Pest and Stock Route Management) Regulation 2003 the following charges will apply",
-      "LGA s97(2)(a)",
+      "i. In accordance with the Stock Route Management Act 2002 and the Stock Route Management Regulation 2003 the following charges will apply",
+      "LGA s97(2)(a) SRMA s134(2)(b)",
       "CR",
       "Cost Recovery",
       "NIL",
-      "0.02",
-      "Per Km, per 100 head or part thereof."
+      "1.06",
+      "Per Day, per 140 head or part thereof."
+    ],
+    [
+      "400",
+      "Environment and Community Services",
+      "440",
+      "Parks and Recreation Services",
+      "1082",
+      "STOCK ROUTE TRAVEL PERMIT",
+      "4963",
+      "3",
+      "3. Application Fee",
+      "00a",
+      "a. All Rural Service Centres",
+      "1",
+      "i. In accordance with the Stock Route Management Act 2002 and the Stock Route Management Regulation 2003 the following charges will apply",
+      "LGA s97(2)(a) SRMA s116(4)(b)",
+      "CR",
+      "Cost Recovery",
+      "NIL",
+      "159",
+      "Per application"
     ],
     [
       "400",
@@ -14907,7 +14928,7 @@
       "C",
       "Commercial",
       "GST",
-      "25",
+      "20",
       "Per night, per site."
     ],
     [
@@ -14928,7 +14949,7 @@
       "C",
       "Commercial",
       "GST",
-      "20",
+      "15",
       "Per night, per site."
     ],
     [
